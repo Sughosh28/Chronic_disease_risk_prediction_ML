@@ -3,3 +3,4 @@ The primary objective of this system is to provide highly accurate chronic disea
 
 The goal of this system is to empower individuals to assess their risk of chronic diseases by simply inputting their symptoms and relevant health information. Leveraging ML models trained on extensive health data, the system can provide predictive insights into potential chronic disease risks.
 
+# Happy ML 
